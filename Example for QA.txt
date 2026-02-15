@@ -1,0 +1,12 @@
+1."Clear form" button does not clean up the page.
+2."Hide password" button disappear when clicking somewhere.
+3.Wrong register massage is show, when user tries to register.
+4.Clear account with an username with less than 6 char is possible
+5.Confirm Email should be confirm password. show error message, when different password is entered.
+6.Confirm password does not show error message, when different password is entered.
+7.Register whit username with letter only is possible.
+8.Register with an username with numbers only is possible
+9.Title of the page is wrong.
+10.Successful Registration with a password 5 symbols
+11.Security suggestion
+12.Register with invalid email.
